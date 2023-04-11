@@ -1,0 +1,34 @@
+class AppIcons{
+  static const String homeIcon = 'assets/icons/home.svg';
+  static const String clockIcon = 'assets/icons/clock.svg';
+  static const String ringIcon = 'assets/icons/ring.svg';
+  static const String settingsIcon = 'assets/icons/settings.svg';
+  static const String settingsTextIcon = 'assets/icons/settings_text.svg';
+  static const String mainTextIcon = 'assets/icons/main_text.svg';
+  static const String historyTextIcon = 'assets/icons/history_text.svg';
+  static const String messagesTextIcon = 'assets/icons/messages_text.svg';
+  static const String miniHamIcon = 'assets/icons/mini_ham.svg';
+  static const String refreshIcon = 'assets/icons/refresh.svg';
+  static const String districtIcon = 'assets/icons/district_icon.svg';
+  static const String districtSubIcon = 'assets/icons/home_icon.svg';
+  static const String person = 'assets/icons/person.svg';
+  static const String hash = 'assets/icons/hash.svg';
+  static const String topBar = 'assets/icons/top_bar.svg';
+  static const String round = 'assets/icons/round.svg';
+  static const String document = 'assets/icons/document.svg';
+  static const String download = 'assets/icons/download.svg';
+  static const String appBarBackground = 'assets/icons/app_bar.svg';
+  static const String globe = 'assets/icons/globus.svg';
+  static const String operator = 'assets/icons/background-simple.svg';
+  static const String location = 'assets/icons/location.svg';
+  static const String number = 'assets/icons/hash.svg';
+  static const String reason = 'assets/icons/Sabab.svg';
+  static const String telegramIcon = 'assets/icons/telegram.svg';
+  static const String triumfIcon = 'assets/icons/telegram.svg';
+  static const String camera = 'assets/icons/camera.svg';
+  static const String telegraph = 'assets/icons/telegraph.svg';
+  static const String bottom = 'assets/icons/bottom.svg';
+  static const String apartment = 'assets/icons/apartment.svg';
+  static const String sign = 'assets/icons/sign.svg';
+  static const String clear = 'assets/icons/clear.svg';
+}
